@@ -1,0 +1,25 @@
+.uper{
+    height: 270px;
+    width: 400px;
+
+}
+.a{
+    height: 90px;
+    width: 400px;
+             
+    background-color:#d82427 ;
+}
+.b{
+    height: 90px;
+    width: 400px;
+    position: absolute;
+    top: 90px;
+    background-color: white;
+}
+.c{
+    height: 90px;
+    width: 400px;
+    position: absolute;
+    top: 180px;
+    background-color: #d82427;
+}
